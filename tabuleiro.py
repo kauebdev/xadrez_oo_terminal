@@ -1,0 +1,1 @@
+# aqui sera classe para definir o tabuleiro, tamanho, limites, 

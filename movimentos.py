@@ -1,0 +1,1 @@
+# movimentos possiveis no tabuleiro e oque cada um faz
